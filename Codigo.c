@@ -20,13 +20,13 @@ void loop()
   Serial.print("Luminosidade de: ");
   Serial.println(luminosidade);
   
-  if(analogRead(sensorLDR) > 600){ // Aciona o Led Vermelho caso a luminosidade esteja muito forte
+  if(luminosidade > 600){ // Aciona o Led Vermelho caso a luminosidade esteja muito forte
     tocarPiezzo();//Aciona o buzzzer
     digitalWrite(ledVerde, LOW);
     digitalWrite(ledAmarelo, LOW);
     digitalWrite(ledVermelho, HIGH);
   }  
-  else if (analogRead(sensorLDR) >= 400 && analogRead(sensorLDR) <= 600){//Aciona o led Amarelo se a luminosidade estiver moderada
+  else if (luminosidade >= 400 && luminosidade <= 600){//Aciona o led Amarelo se a luminosidade estiver moderada
     noTone(buzzer); //Não tocar o buzzer
     digitalWrite(ledAmarelo, HIGH);
     digitalWrite(ledVerde, LOW);
