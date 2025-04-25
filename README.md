@@ -1,6 +1,5 @@
-###CP Edge-Computing
+##CP Edge-Computing
 ## Sensor de Luminosidade para Preservação de Vinhos  Vinheria Agnello
-![Logo da Vinheria Agnello](logo.jpg)
 
 ## Descrição
 Este projeto foi criado para ajudar a monitorar e controlar os níveis de luz no armazenamento de vinhos, garantindo a qualidade dos rótulos. Ele usa um sensor de luminosidade e um Arduino, com alertas visuais e sonoros quando a luz está fora dos níveis ideais.
