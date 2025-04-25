@@ -1,4 +1,4 @@
-##CP Edge-Computing
+CP Edge-Computing
 ## Sensor de Luminosidade para Preservação de Vinhos  Vinheria Agnello
 
 ## Descrição
