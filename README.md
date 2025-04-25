@@ -57,3 +57,7 @@ Placa Arduino: Arduino Uno ou qualquer placa compatível com a plataforma Arduin
 ## 🏷️ Caso de Uso: Vinheria Agnello
 
 Este sistema é usado na Vinheria Agnello para monitorar o armazenamento dos vinhos e manter as condições ideais. A automação ajuda a manter a qualidade dos vinhos e garante a melhor experiência para os clientes.
+
+## 👥 Integrantes do Grupo
+| [<img loading="lazy" src="./src/assets/images/Vitor.png" width=115><br><sub>Vitor Alcantara</sub>](https://github.com/VitorAlcantara-tech) | [<img loading="lazy" src="./src/assets/images/Thiago.png" width=115><br><sub>Thiago Lima</sub>](https://github.com/thiagolima-tech) |  [<img loading="lazy" src="./src/assets/images/Matheus.png" width=115><br><sub>Matheus Vasques</sub>](https://github.com/maatvasques) | [<img loading="lazy" src="./src/assets/images/Marco.png" width=115><br><sub>Marco Aurélio</sub>](https://github.com/Arriatea) | [<img loading="lazy" src="./src/assets/images/Bernardo.png" width=115><br><sub>Bernardo Hanashiro</sub>](https://github.com/BernardoYuji) | 
+| :---: | :---: | :---: | :---: | :---: |
